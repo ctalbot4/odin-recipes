@@ -1,2 +1,2 @@
 # odin-recipes
-First Odin project
+My First Odin project
