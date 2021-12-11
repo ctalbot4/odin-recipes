@@ -1,3 +1,25 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h1 {
+    font-size: 40px;
+    color: rgb(219, 168, 72)
+}
+
+h2 {
+    color: rgb(231, 109, 109);
+    font-size: 28px;
+}
+
+p,
+li {
+    color:rgb(80, 93, 117);
+    list-style-position: inside;
 }
